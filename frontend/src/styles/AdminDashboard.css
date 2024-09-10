@@ -1,0 +1,37 @@
+.admin-dashboard {
+  padding: 20px;
+}
+
+.create-exam {
+  margin-bottom: 20px;
+}
+
+.create-exam form {
+  display: flex;
+  flex-direction: column;
+}
+
+.create-exam label {
+  margin-bottom: 10px;
+}
+
+.create-exam button {
+  margin-top: 10px;
+}
+
+.exam-list, .result-list {
+  margin-top: 20px;
+}
+
+.exam-list ul, .result-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.exam-list li, .result-list li {
+  margin-bottom: 10px;
+}
+
+.exam-list button {
+  margin-top: 5px;
+}
